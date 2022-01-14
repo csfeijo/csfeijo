@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Cícero Feijó, and I´m a Software Engineer from Brazil.
+My name is Cícero Feijó, and I´m a Software Engineer from Brazil and teach at a Technology School.
 
 I love to work with Web Techologies and teach them to people that wants to learn how to develop applications.
 

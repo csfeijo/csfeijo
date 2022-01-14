@@ -3,6 +3,10 @@ My name is Cícero Feijó, and I´m a Software Engineer from Brazil and teach at
 
 I love to work with Web Techologies and teach them to people that wants to learn how to develop applications.
 
+<img src="https://github-readme-stats.vercel.app/api?username=csfeijo&show_icons=true&theme=merko" width="400">
+
+
+
 <!--
 **csfeijo/csfeijo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

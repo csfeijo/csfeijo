@@ -1,23 +1,11 @@
 ### Hi there 👋
-My name is Cícero Feijó, and I´m a Software Engineer from Brazil and teach at a Technology School.
+My name is Cícero Feijó, I´m a Engineering Manager at [Azion](https://azion.com/) and teacher at a Technology School called [Targettrust](https://targettrust.com.br).
 
-I love to work with Web Techologies and teach them to people that wants to learn how to develop applications.
+I love to work with Web Techologies and teach them to people that wants to learn how to develop web applications.
 
 <img src="https://github-readme-stats.vercel.app/api?username=csfeijo&show_icons=true&theme=merko" width="400">
 
-
-
-<!--
-**csfeijo/csfeijo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤟 Rock Technologies: HTML(5), JavaScript (ECMA), CSS (with SASS), ReactJS, VueJS and NodeJS.
+- 💬 Ask me about any Front-Edn Techologies and Career Tips
+- 📫 How to reach me: cicero@professorfeijo.com.br
+- ⚡ Fun fact: A few years ago I lost more than 110 pounds (50Kg) with nutritional education and making exercises. So, my tip is: if you wanna something just go ahead and get it!
